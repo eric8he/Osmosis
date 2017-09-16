@@ -24,8 +24,8 @@ var sketchProc = function(processingInstance) {
         };
 
         var drawKey=function() {
-            fill(250,250,250);
-            stroke(230,230,230);
+            fill(220,220,220);
+            stroke(180,180,180);
             rect(0,0,120,240,5);
             stroke(0,0,0);
             fill(0, 9, 255);
