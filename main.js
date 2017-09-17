@@ -1,6 +1,6 @@
 var sketchProc = function(processingInstance) {
     with (processingInstance) {
-        size(1300,800);
+        size(1300,700);
         var GLUCOSE_COLOR = color(57,252,68);
         var WATER_COLOR = color(250,50,55);
         frameRate(5);
